@@ -19,22 +19,21 @@ To bridge **visual** and **textual modalities** in these domains, we introduce *
 - Sources: *Original Patterns From Ancient Chinese Textiles* (silk) & *Complete Collection of Chinese Dunhuang Murals*  
 - Each entry includes: **ID, title, image, textual description**  
 - Designed for **cross-modal retrieval tasks** (image-to-text, text-to-image)
-
+<p align="center">
+    <img src="./imgs/1.png" >
+</p> 
 ---
 
 ## 📂 Dataset Structure
-CulTi/
-│── train/
-│   ├── images/
-│   └── texts/
-│── val/
-│── test/
-│── metadata.json
-
+<p align="center">
+    <img src="./imgs/2.png" >
+</p> 
 - **Images**: high-quality scans of silk patterns, cropped motifs, Dunhuang murals  
 - **Texts**: simplified Chinese descriptions, OCR + refined with GPT-4o  
 - **Split**: 7:1:2 (train/val/test)
-
+<p align="center">
+    <img src="./imgs/3.png" >
+</p> 
 ---
 
 ## 🚀 Download
@@ -61,6 +60,10 @@ To access the dataset, please:
 
 We propose **LACLIP**, a local alignment strategy based on Chinese-CLIP,  
 which significantly improves cross-modal retrieval on CulTi.
+<p align="center">
+    <img src="./imgs/4.png" >
+</p> 
+
 
 | Model             | Mean Recall (MR) |
 |-------------------|------------------|
