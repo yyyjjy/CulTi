@@ -26,7 +26,7 @@ To bridge **visual** and **textual modalities** in these domains, we introduce *
 
 ## 📂 Dataset Structure
 <p align="center">
-    <img src="./imgs/2.png" >
+    <img src="./imgs/2.png" width="70%">
 </p> 
 
 - **Images**: high-quality scans of silk patterns, cropped motifs, Dunhuang murals  
@@ -34,7 +34,7 @@ To bridge **visual** and **textual modalities** in these domains, we introduce *
 - **Split**: 7:1:2 (train/val/test)
 
 <p align="center">
-    <img src="./imgs/3.png" >
+    <img src="./imgs/3.png" width="70%">
 </p> 
 ---
 
@@ -63,11 +63,11 @@ To access the dataset, please:
 We propose **LACLIP**, a local alignment strategy based on Chinese-CLIP,  
 which significantly improves cross-modal retrieval on CulTi.
 <p align="center">
-    <img src="./imgs/4.png" >
+    <img src="./imgs/4.png"  width="70%">
 </p> 
 
 <p align="center">
- <img src="./imgs/5.png" >
+ <img src="./imgs/5.png" width="70%">
 </p> 
 ---
 
