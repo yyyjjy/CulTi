@@ -21,3 +21,60 @@ To bridge **visual** and **textual modalities** in these domains, we introduce *
 ---
 
 ## 📂 Dataset Structure
+CulTi/
+│── train/
+│   ├── images/
+│   └── texts/
+│── val/
+│── test/
+│── metadata.json
+
+- **Images**: high-quality scans of silk patterns, cropped motifs, Dunhuang murals  
+- **Texts**: simplified Chinese descriptions, OCR + refined with GPT-4o  
+- **Split**: 7:1:2 (train/val/test)
+
+---
+
+## 🚀 Download
+
+The dataset is hosted on Google Drive:  
+
+[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/xxxxx) <!-- TODO: Insert real link -->
+
+⚠️ **Note:** To ensure proper usage, dataset access is **password-protected**.  
+Please follow the agreement instructions below.
+
+---
+
+## 📑 Access Protocol
+
+To access the dataset, please:  
+1. **Fill in the Data Usage Agreement Form** [![Agreement](https://img.shields.io/badge/Agreement-Form-blue)](https://example.com/agreement) <!-- TODO: Replace with real link -->  
+2. After review, you will receive the **password** via email.  
+3. Use the password to unzip the dataset files.
+
+---
+
+## 🧪 Benchmark & Results
+
+We propose **LACLIP**, a local alignment strategy based on Chinese-CLIP,  
+which significantly improves cross-modal retrieval on CulTi.
+
+| Model             | Mean Recall (MR) |
+|-------------------|------------------|
+| CN-CLIP ViT-H     | 47.3%            |
+| **LACLIP ViT-H**  | **47.9%**        |
+
+---
+
+## 📜 Citation
+
+If you use **CulTi** in your research, please cite:
+
+```bibtex
+@inproceedings{yuan2023culti,
+  title={Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution},
+  author={Yuan, Junyi and Zhang, Jian and Wu, Fangyu and Lu, Huanda and Lu, Dongming and Wang, Qiufeng},
+  booktitle={ICDAR},
+  year={2023}
+}
