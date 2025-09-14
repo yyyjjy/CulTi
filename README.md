@@ -28,9 +28,11 @@ To bridge **visual** and **textual modalities** in these domains, we introduce *
 <p align="center">
     <img src="./imgs/2.png" >
 </p> 
+
 - **Images**: high-quality scans of silk patterns, cropped motifs, Dunhuang murals  
 - **Texts**: simplified Chinese descriptions, OCR + refined with GPT-4o  
 - **Split**: 7:1:2 (train/val/test)
+
 <p align="center">
     <img src="./imgs/3.png" >
 </p> 
@@ -64,12 +66,12 @@ which significantly improves cross-modal retrieval on CulTi.
     <img src="./imgs/4.png" >
 </p> 
 
-
+<p align="center">
 | Model             | Mean Recall (MR) |
 |-------------------|------------------|
 | CN-CLIP ViT-H     | 47.3%            |
 | **LACLIP ViT-H**  | **47.9%**        |
-
+</p> 
 ---
 
 ## 📜 Citation
