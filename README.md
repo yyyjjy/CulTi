@@ -1,4 +1,6 @@
-<img src='logo.png' align="left" width="11%" /> # CulTi: A Multimodal Dataset for Cross-modal Retrieval in Chinese Cultural Heritage
+<img src='./logo.png' align="left" width="11%" /> 
+
+# CulTi: A Multimodal Dataset for Cross-modal Retrieval in Chinese Cultural Heritage
 
 This repository hosts the dataset **CulTi**, introduced in the paper:  
 **"Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution"**  
