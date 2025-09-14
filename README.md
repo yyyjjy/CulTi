@@ -67,10 +67,7 @@ which significantly improves cross-modal retrieval on CulTi.
 </p> 
 
 <p align="center">
-| Model             | Mean Recall (MR) |
-|-------------------|------------------|
-| CN-CLIP ViT-H     | 47.3%            |
-| **LACLIP ViT-H**  | **47.9%**        |
+ <img src="./imgs/5.png" >
 </p> 
 ---
 
@@ -79,7 +76,7 @@ which significantly improves cross-modal retrieval on CulTi.
 If you use **CulTi** in your research, please cite:
 
 ```bibtex
-@inproceedings{yuan2023culti,
+@inproceedings{yuan2025culti,
   title={Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution},
   author={Yuan, Junyi and Zhang, Jian and Wu, Fangyu and Lu, Huanda and Lu, Dongming and Wang, Qiufeng},
   booktitle={ICDAR},
