@@ -60,8 +60,7 @@ To access the dataset, please:
 
 ## 🧪 Benchmark & Results
 
-We propose **LACLIP**, a local alignment strategy based on Chinese-CLIP,  
-which significantly improves cross-modal retrieval on CulTi.
+We propose **LACLIP**, a local alignment strategy based on Chinese-CLIP,  which significantly improves cross-modal retrieval on CulTi.
 <p align="center">
     <img src="./imgs/4.png"  width="70%">
 </p> 
@@ -69,6 +68,8 @@ which significantly improves cross-modal retrieval on CulTi.
 <p align="center">
  <img src="./imgs/5.png" width="70%">
 </p> 
+
+
 ---
 
 ## 📜 Citation
