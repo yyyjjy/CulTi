@@ -54,7 +54,7 @@ Please follow the agreement instructions below.
 ## 📑 Access Protocol
 
 To access the dataset, please:  
-1. **Fill in the Data Usage Agreement Form** [![Agreement](https://img.shields.io/badge/Agreement-Form-blue)](https://example.com/agreement) <!-- TODO: Replace with real link -->  
+1. **Fill in the Data Usage Agreement Form** [![Agreement](https://img.shields.io/badge/Agreement-Form-blue)](https://github.com/yyyjjy/CulTi/blob/main/Legal-Commitment.docx) <!-- TODO: Replace with real link -->  
 2. After review, you will receive the **password** via email.  
 3. Use the password to unzip the dataset files.
 
