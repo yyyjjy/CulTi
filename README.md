@@ -20,7 +20,7 @@ To bridge **visual** and **textual modalities** in these domains, we introduce *
 - Each entry includes: **ID, title, image, textual description**  
 - Designed for **cross-modal retrieval tasks** (image-to-text, text-to-image)
 <p align="center">
-    <img src="./imgs/1.png" >
+    <img src="./imgs/1.png" width="70%">
 </p> 
 ---
 
