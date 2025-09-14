@@ -6,7 +6,7 @@ This repository hosts the dataset **CulTi**, introduced in the paper:
 **"Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution"**  
 *Junyi Yuan, Jian Zhang, Fangyu Wu, Huanda Lu, Dongming Lu, Qiufeng Wang*
 
-[![Arxiv](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg)](https://arxiv.org/abs/xxxx.xxxxx) <!-- TODO: Replace with actual arXiv link -->
+[![Arxiv](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg)](https://arxiv.org/abs/2505.10921) <!-- TODO: Replace with actual arXiv link -->
 
 ---
 
