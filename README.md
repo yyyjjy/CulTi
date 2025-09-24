@@ -11,6 +11,7 @@ This repository hosts the dataset **CulTi**, introduced in the paper:
 ---
 ## Future Work  
 
+
 This dataset will be further extended through **LLM-driven completeness and consistency evaluation** for cultural heritage data augmentation in cross-modal retrieval. Our paper *“LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval”* has been accepted at **EMNLP 2025**. For updates and resources, please visit [JianZhang24/C-3](https://github.com/JianZhang24/C-3).  
 ---
 ## 📖 Introduction
