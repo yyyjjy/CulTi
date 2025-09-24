@@ -7,7 +7,7 @@ This repository hosts the dataset **CulTi**, introduced in the paper:
 *Junyi Yuan, Jian Zhang, Fangyu Wu, Huanda Lu, Dongming Lu, Qiufeng Wang*
 
 [![Arxiv](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg)](https://arxiv.org/abs/2505.10921) <!-- TODO: Replace with actual arXiv link -->
-
+## Future Work: https://github.com/JianZhang24/C-3
 ---
 
 ## 📖 Introduction
@@ -86,4 +86,4 @@ If you use **CulTi** in your research, please cite:
   year={2023}
 }
 
-## Future Work: https://github.com/JianZhang24/C-3
+
