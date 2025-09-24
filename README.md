@@ -45,8 +45,7 @@ To bridge **visual** and **textual modalities** in these domains, we introduce *
 The dataset is hosted on Google Drive:  
 
 [![Google Drive](https://img.shields.io/badge/Download-Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1Q3lHxhQvwfxehq_VOCyFgWXOK0Wyxux3?usp=share_link) <!-- TODO: Insert real link -->
-[![Pan Baidu Code: kvvj](https://img.shields.io/badge/Download-Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://pan.baidu.com/s/1DZ8I6GcgGaI8LsZgXLowzw) <!-- TODO: Insert real link -->
-
+[![Pan Baidu Code: kvvj](https://img.shields.io/badge/Download-百度网盘-06a7ff?logo=baidu&logoColor=white)](https://pan.baidu.com/s/1DZ8I6GcgGaI8LsZgXLowzw)
 ⚠️ **Note:** To ensure proper usage, dataset access is **password-protected**.  
 Please follow the agreement instructions below.
 
