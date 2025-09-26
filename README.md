@@ -76,7 +76,7 @@ We propose **LACLIP**, a local alignment strategy based on Chinese-CLIP,  which 
 ## Future Work  
 
 
-This dataset will be further extended through **LLM-driven completeness and consistency evaluation** for cultural heritage data augmentation in cross-modal retrieval. Our paper *“LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval”* has been accepted at **EMNLP 2025**. For updates and resources, please visit [JianZhang24/C-3](https://github.com/JianZhang24/C-3).  
+This dataset has already been referenced in our subsequent work “LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval”, which was accepted at EMNLP 2025., please visit [JianZhang24/C-3](https://github.com/JianZhang24/C-3).  
 ---
 
 ## 📜 Citation
@@ -88,7 +88,7 @@ If you use **CulTi** in your research, please cite:
   title={Towards Cross-modal Retrieval in Chinese Cultural Heritage Documents: Dataset and Solution},
   author={Yuan, Junyi and Zhang, Jian and Wu, Fangyu and Lu, Huanda and Lu, Dongming and Wang, Qiufeng},
   booktitle={ICDAR},
-  year={2023}
+  year={2025}
 }
 
 
