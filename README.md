@@ -91,4 +91,10 @@ If you use **CulTi** in your research, please cite:
   year={2025}
 }
 
+@inproceedings{zhang2025c3,
+  title={LLM-Driven Completeness and Consistency Evaluation for Cultural Heritage Data Augmentation in Cross-Modal Retrieval},
+  author={Jian Zhang, Junyi Guo, Junyi Yuan, Huanda Lu, Yanlin Zhou, Fangyu Wu, Qiufeng Wang, Dongming Lu},
+  year={2025}
+}
+
 
